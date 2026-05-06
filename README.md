@@ -3,8 +3,6 @@
 # ¡Hola! Soy Dayerson Zamora 👋 
 ### 💻 Desarrollador de Software y Aplicaciones
 
-font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Apasionado+por+la+accesibilidad+web;Buscando+mi+primera+oportunidad+laboral;Construyendo+soluciones+digitales;Bienvenido+a+mi+espacio+de+código!" alt="Typing SVG" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=ZAMORAFTER%20Dev&fontSize=50&animation=fadeIn" width="100%">
 
 </div>
@@ -53,14 +51,6 @@ Soy un desarrollador de software apasionado por crear herramientas que sean func
 | **KATHERINE** | Landing Page de reservas optimizada para conversión y accesibilidad web. | `React` `Tailwind` |
 | **PASCUA** | Experiencia interactiva de búsqueda de huevos de pascua, enfocada en lógica de juego y DOM. | `JS` `CSS` |
 | **SISTEMA FINANZAS** | Sistema de gestión financiera empresarial para control de activos y contabilidad. | `Django` `MongoDB` |
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAMORAFTER&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAMORAFTER&theme=tokyonight" alt="Streak de GitHub" />
-</div>
 
 ## 🌐 Contacto
 
