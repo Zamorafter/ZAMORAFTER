@@ -3,7 +3,7 @@
 # ¡Hola! Soy Dayerson Zamora 👋 
 ### 💻 Desarrollador de Software y Aplicaciones
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Apasionado+por+la+accesibilidad+web;Buscando+mi+primera+oportunidad+laboral;Construyendo+soluciones+digitales;Bienvenido+a+mi+espacio+de+código!" alt="Typing SVG" />
+font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Apasionado+por+la+accesibilidad+web;Buscando+mi+primera+oportunidad+laboral;Construyendo+soluciones+digitales;Bienvenido+a+mi+espacio+de+código!" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=ZAMORAFTER%20Dev&fontSize=50&animation=fadeIn" width="100%">
 
@@ -65,11 +65,8 @@ Soy un desarrollador de software apasionado por crear herramientas que sean func
 ## 🌐 Contacto
 
 <div align="center">
-  <a href="mailto:TU_CORREO_AQUI">
+  <a href="mailto:dayersonzamora4a@gmail,com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
