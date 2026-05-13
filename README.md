@@ -45,22 +45,3 @@ Soy un desarrollador de software apasionado por crear herramientas que sean func
 </div>
 
 ## 🌟 Proyectos Destacados
-
-| Proyecto | Descripción | Tech Stack |
-| :--- | :--- | :--- |
-| **KATHERINE** | Landing Page de reservas optimizada para conversión y accesibilidad web. | `React` `Tailwind` |
-| **PASCUA** | Experiencia interactiva de búsqueda de huevos de pascua, enfocada en lógica de juego y DOM. | `JS` `CSS` |
-| **SISTEMA FINANZAS** | Sistema de gestión financiera empresarial para control de activos y contabilidad. | `Django` `MongoDB` |
-
-## 🌐 Contacto
-
-<div align="center">
-  <a href="mailto:dayersonzamora4a@gmail,com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://komabit.github.io/hacktoberfest-counter/img/github-contribution-graph.svg" width="400">
-</div>
